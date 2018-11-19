@@ -1,6 +1,8 @@
 {
   "name": "RWBP",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "pro_id": "981fdd00"
 }
